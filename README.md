@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=0E00F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0E00F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=Computer+science+student)](https://git.io/typing-svg)
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
